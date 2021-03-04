@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [YsecIT_HRM]">
+  <test thread-count="5" name="Functional_Testing(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.HRM.TestCases.Final_TestCase_Run">
+        <methods>
+          <include name="checkPersonalDetails"/>
+          <include name="setUP"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.HRM.TestCases.Final_TestCase_Run -->
+    </classes>
+  </test> <!-- Functional_Testing(failed) -->
+</suite> <!-- Failed suite [YsecIT_HRM] -->

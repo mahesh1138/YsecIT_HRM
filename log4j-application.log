@@ -1,0 +1,1050 @@
+2019-11-06 12:40:14,852  INFO [main] HRM:20 - ULR opened succesfully
+ 2019-11-06 12:40:14,982  INFO [main] HRM:23 - Entered username
+ 2019-11-06 12:40:15,064  INFO [main] HRM:25 - Entered password
+ 2019-11-06 15:04:37,753  INFO [main] HRM:22 - ULR opened succesfully
+ 2019-11-06 15:04:37,884  INFO [main] HRM:25 - Entered username
+ 2019-11-06 15:04:37,965  INFO [main] HRM:27 - Entered password
+ 2019-11-06 15:04:38,028  INFO [main] HRM:29 - Logged In successfully
+ 2019-11-06 15:49:15,767  INFO [main] HRM:22 - ULR opened succesfully
+ 2019-11-06 15:49:15,901  INFO [main] HRM:25 - Entered username
+ 2019-11-06 15:49:16,010  INFO [main] HRM:27 - Entered password
+ 2019-11-06 15:49:16,072  INFO [main] HRM:29 - Login Test passed successfully
+ 2019-11-06 17:10:41,368  INFO [main] HRM:22 - ULR opened succesfully
+ 2019-11-06 17:10:41,522  INFO [main] HRM:25 - Entered username
+ 2019-11-06 17:10:41,608  INFO [main] HRM:27 - Entered password
+ 2019-11-06 17:10:41,674  INFO [main] HRM:29 - Login Test passed successfully
+ 2019-11-06 17:10:49,876  INFO [main] HRM:15 - Username is Entered
+ 2019-11-06 17:10:49,951  INFO [main] HRM:17 - Password is Entered
+ 2019-11-06 17:14:38,854  INFO [main] HRM:22 - ULR opened succesfully
+ 2019-11-06 17:14:39,018  INFO [main] HRM:25 - Entered username
+ 2019-11-06 17:14:39,104  INFO [main] HRM:27 - Entered password
+ 2019-11-06 17:14:39,165  INFO [main] HRM:29 - Login Test passed successfully
+ 2019-11-06 17:14:48,000  INFO [main] HRM:15 - Username is Entered
+ 2019-11-06 17:14:48,074  INFO [main] HRM:17 - Password is Entered
+ 2019-11-06 17:14:48,144  INFO [main] HRM:19 - Clicked on submit button
+ 2019-11-06 17:28:17,581  INFO [main] HRM:22 - ULR opened succesfully
+ 2019-11-06 17:28:17,709  INFO [main] HRM:25 - Entered username
+ 2019-11-06 17:28:17,790  INFO [main] HRM:27 - Entered password
+ 2019-11-06 17:28:17,862  INFO [main] HRM:29 - Login Test passed successfully
+ 2019-11-06 17:28:30,666  INFO [main] HRM:18 - Username is Entered
+ 2019-11-06 17:28:30,742  INFO [main] HRM:20 - Password is Entered
+ 2019-11-06 17:28:30,810  INFO [main] HRM:22 - Logged in successfully and home page displayed
+ 2019-11-06 17:28:33,870  INFO [main] HRM:28 - Expaned Personal Information tab
+ 2019-11-06 17:28:35,937  INFO [main] HRM:31 - My Attendance page opened
+ 2019-11-06 17:50:05,100  INFO [main] HRM:21 - Username is Entered
+ 2019-11-06 17:50:05,194  INFO [main] HRM:23 - Password is Entered
+ 2019-11-06 17:50:05,257  INFO [main] HRM:25 - Logged in successfully and home page displayed
+ 2019-11-06 17:50:08,367  INFO [main] HRM:31 - Expaned Personal Information tab
+ 2019-11-06 17:50:10,434  INFO [main] HRM:34 - My Attendance page opened
+ 2019-11-07 10:43:24,458  INFO [main] HRM:23 - Username is Entered
+ 2019-11-07 10:43:24,544  INFO [main] HRM:25 - Password is Entered
+ 2019-11-07 10:43:24,617  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-07 10:43:27,699  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-07 10:43:29,772  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-07 10:51:38,257  INFO [main] HRM:23 - Username is Entered
+ 2019-11-07 10:51:38,343  INFO [main] HRM:25 - Password is Entered
+ 2019-11-07 10:51:38,416  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-07 10:51:41,481  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-07 10:51:43,547  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-07 11:00:47,616  INFO [main] HRM:23 - Username is Entered
+ 2019-11-07 11:00:47,696  INFO [main] HRM:25 - Password is Entered
+ 2019-11-07 11:00:47,766  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-07 11:00:49,826  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-07 11:00:51,886  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-07 11:23:13,464  INFO [main] HRM:22 - Username is Entered
+ 2019-11-07 11:23:13,539  INFO [main] HRM:24 - Password is Entered
+ 2019-11-07 11:23:13,598  INFO [main] HRM:26 - Logged in successfully and home page displayed
+ 2019-11-07 11:23:15,682  INFO [main] HRM:32 - Expaned Personal Information tab
+ 2019-11-07 11:23:17,742  INFO [main] HRM:35 - My Attendance page opened
+ 2019-11-07 11:23:23,137  INFO [main] HRM:55 - Attendance Details displayed successfully
+ 2019-11-07 11:23:28,221  INFO [main] HRM:60 - Opened Punching details
+ 2019-11-07 11:33:17,686  INFO [main] HRM:48 - Login page Displayed successfully
+ 2019-11-07 11:33:20,959  INFO [main] HRM:22 - Username is Entered
+ 2019-11-07 11:33:21,038  INFO [main] HRM:24 - Password is Entered
+ 2019-11-07 11:33:21,105  INFO [main] HRM:26 - Logged in successfully and home page displayed
+ 2019-11-07 11:33:23,176  INFO [main] HRM:32 - Expaned Personal Information tab
+ 2019-11-07 11:33:25,239  INFO [main] HRM:35 - My Attendance page opened
+ 2019-11-07 11:33:30,613  INFO [main] HRM:55 - Attendance Details displayed successfully
+ 2019-11-07 11:33:35,693  INFO [main] HRM:60 - Opened Punching details
+ 2019-11-07 11:43:01,270  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 11:43:05,631  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 11:43:08,915  INFO [main] HRM:23 - Username is Entered
+ 2019-11-07 11:43:08,992  INFO [main] HRM:25 - Password is Entered
+ 2019-11-07 11:43:09,058  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-07 11:43:11,137  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-07 11:43:13,913  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 11:51:31,543  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 11:51:34,258  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 11:51:37,520  INFO [main] HRM:23 - Username is Entered
+ 2019-11-07 11:51:37,597  INFO [main] HRM:25 - Password is Entered
+ 2019-11-07 11:51:37,657  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-07 11:51:39,716  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-07 11:51:41,774  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-07 11:51:47,209  INFO [main] HRM:55 - Attendance Details displayed successfully
+ 2019-11-07 11:51:52,900  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 12:19:35,433  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 12:19:37,355  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 12:19:40,607  INFO [main] HRM:23 - Username is Entered
+ 2019-11-07 12:19:40,693  INFO [main] HRM:25 - Password is Entered
+ 2019-11-07 12:19:40,763  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-07 12:19:42,822  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-07 12:19:44,919  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-07 12:19:50,336  INFO [main] HRM:55 - Attendance Details displayed successfully
+ 2019-11-07 12:19:51,026  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 12:21:33,244  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 12:21:36,372  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 12:21:39,614  INFO [main] HRM:23 - Username is Entered
+ 2019-11-07 12:21:39,695  INFO [main] HRM:25 - Password is Entered
+ 2019-11-07 12:21:39,762  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-07 12:21:41,864  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-07 12:21:43,964  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-07 12:21:49,398  INFO [main] HRM:55 - Attendance Details displayed successfully
+ 2019-11-07 12:21:54,512  INFO [main] HRM:66 - Opened Punching details
+ 2019-11-07 12:22:05,300  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 12:22:41,930  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 12:22:44,339  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 12:22:47,582  INFO [main] HRM:23 - Username is Entered
+ 2019-11-07 12:22:47,664  INFO [main] HRM:25 - Password is Entered
+ 2019-11-07 12:22:47,732  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-07 12:22:49,806  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-07 12:22:51,916  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-07 12:22:57,349  INFO [main] HRM:55 - Attendance Details displayed successfully
+ 2019-11-07 12:23:03,069  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 12:24:15,606  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 12:24:18,444  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 12:24:21,687  INFO [main] HRM:23 - Username is Entered
+ 2019-11-07 12:24:21,768  INFO [main] HRM:25 - Password is Entered
+ 2019-11-07 12:24:21,832  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-07 12:24:23,908  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-07 12:24:25,999  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-07 12:24:31,438  INFO [main] HRM:55 - Attendance Details displayed successfully
+ 2019-11-07 12:24:37,142  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 13:35:07,017  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 13:35:09,175  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 13:35:12,441  INFO [main] HRM:18 - Username is Entered
+ 2019-11-07 13:35:12,519  INFO [main] HRM:20 - Password is Entered
+ 2019-11-07 13:35:12,589  INFO [main] HRM:22 - Logged in successfully and home page displayed
+ 2019-11-07 13:35:14,665  INFO [main] HRM:27 - Expand the Personal Information tab
+ 2019-11-07 13:35:16,721  INFO [main] HRM:30 - Personal Details page opened successfully
+ 2019-11-07 13:35:22,460  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 16:13:15,071  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 16:13:17,990  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 16:13:21,230  INFO [main] HRM:22 - Username is Entered
+ 2019-11-07 16:13:21,322  INFO [main] HRM:24 - Password is Entered
+ 2019-11-07 16:13:21,391  INFO [main] HRM:26 - Logged in successfully and home page displayed
+ 2019-11-07 16:13:23,533  INFO [main] HRM:31 - Expand the Personal Information tab
+ 2019-11-07 16:13:25,619  INFO [main] HRM:34 - Personal Details page opened successfully
+ 2019-11-07 16:13:34,712  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 17:20:06,585  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 17:20:09,440  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 17:20:12,750  INFO [main] HRM:21 - Logged in successfully
+ 2019-11-07 17:20:13,535  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 17:21:04,437  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 17:21:07,154  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 17:21:13,619  INFO [main] HRM:24 - Logged in successfully
+ 2019-11-07 17:21:15,861  INFO [main] HRM:31 - Apply Leave page displayed
+ 2019-11-07 17:21:22,554  INFO [main] HRM:41 - Tested Apply leave page
+ 2019-11-07 17:21:23,240  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 17:33:35,349  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 17:33:37,479  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 17:33:43,925  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-07 17:33:46,064  INFO [main] HRM:33 - Apply Leave page displayed
+ 2019-11-07 17:33:47,742  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 17:40:12,984  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 17:40:15,138  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 17:40:21,616  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-07 17:40:24,811  INFO [main] HRM:33 - Apply Leave page displayed
+ 2019-11-07 17:40:34,606  INFO [main] HRM:48 - Tested Apply leave page
+ 2019-11-07 17:40:35,288  INFO [main] HRM:57 - Closed the browser
+ 2019-11-07 17:53:36,130  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-07 17:53:38,121  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-07 17:53:44,575  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-07 17:53:47,700  INFO [main] HRM:33 - Apply Leave page displayed
+ 2019-11-07 17:53:58,457  INFO [main] HRM:49 - Tested Apply leave page
+ 2019-11-07 17:54:01,549  INFO [main] HRM:55 - Comp off page displayed
+ 2019-11-07 17:54:02,229  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 10:22:24,711  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 10:22:28,439  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 10:22:34,931  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-08 10:22:38,129  INFO [main] HRM:33 - Apply Leave page displayed
+ 2019-11-08 10:22:49,091  INFO [main] HRM:49 - Tested Apply leave page
+ 2019-11-08 10:22:51,162  INFO [main] HRM:55 - Comp off page displayed
+ 2019-11-08 10:22:55,009  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 11:26:52,209  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 11:26:55,208  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 11:27:01,668  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-08 11:27:04,806  INFO [main] HRM:33 - Apply Leave page displayed
+ 2019-11-08 11:27:15,456  INFO [main] HRM:49 - Tested Apply leave page
+ 2019-11-08 11:27:17,533  INFO [main] HRM:55 - Comp off page displayed
+ 2019-11-08 11:27:21,356  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 11:28:06,545  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 11:28:09,158  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 11:28:15,622  INFO [main] HRM:25 - Logged in successfully
+ 2019-11-08 11:28:19,786  INFO [main] HRM:33 - Generate Request page displayed
+ 2019-11-08 11:28:22,618  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 11:38:05,218  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 11:38:07,761  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 11:38:14,196  INFO [main] HRM:25 - Logged in successfully
+ 2019-11-08 11:38:18,312  INFO [main] HRM:33 - Generate Request page displayed
+ 2019-11-08 11:38:23,534  INFO [main] HRM:44 - Sorry No Records found, message displayed on the screen
+ 2019-11-08 11:38:24,198  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 12:33:09,674  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 12:33:12,313  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 12:33:18,744  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-08 12:33:24,960  INFO [main] HRM:38 - Add Traning Summary page opened
+ 2019-11-08 12:33:25,645  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 12:36:10,464  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 12:36:14,277  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 12:36:20,713  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-08 12:36:26,959  INFO [main] HRM:38 - Add Traning Summary page opened
+ 2019-11-08 12:36:36,104  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 12:45:02,466  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 12:45:24,436  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 12:45:30,912  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-08 12:45:37,154  INFO [main] HRM:38 - Add Traning Summary page opened
+ 2019-11-08 12:45:46,306  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 12:47:47,648  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 12:47:52,375  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 12:47:58,781  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-08 12:48:04,993  INFO [main] HRM:38 - Add Traning Summary page opened
+ 2019-11-08 12:48:13,496  INFO [main] HRM:60 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-11-08 12:48:17,165  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 13:32:50,989  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 13:32:55,553  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 13:33:01,959  INFO [main] HRM:24 - Logged in successfully
+ 2019-11-08 13:33:12,025  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 14:42:24,587  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 14:42:27,836  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 14:42:34,247  INFO [main] HRM:24 - Logged in successfully
+ 2019-11-08 14:42:39,504  INFO [main] HRM:35 - Entered New Password
+ 2019-11-08 14:42:39,580  INFO [main] HRM:37 - Entered Confirm Password
+ 2019-11-08 14:42:40,631  INFO [main] HRM:43 - Clicked on Submi button
+ 2019-11-08 14:42:44,265  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 15:36:44,340  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 15:36:46,428  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 15:36:52,813  INFO [main] HRM:28 - Logged in successfully
+ 2019-11-08 15:36:54,991  INFO [main] HRM:35 - Leave Details Page opened
+ 2019-11-08 15:36:59,298  INFO [main] HRM:43 - Entered From date, To date and clicked on submit button 
+ 2019-11-08 15:37:02,407  INFO [main] HRM:47 - Leave details Export to excel successfully
+ 2019-11-08 15:37:10,638  INFO [main] HRM:61 - Displayed Holiday List successfully
+ 2019-11-08 15:37:11,301  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 15:46:36,172  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 15:46:44,986  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 15:46:51,398  INFO [main] HRM:28 - Logged in successfully
+ 2019-11-08 15:46:53,562  INFO [main] HRM:35 - Leave Details Page opened
+ 2019-11-08 15:46:57,879  INFO [main] HRM:43 - Entered From date, To date and clicked on submit button 
+ 2019-11-08 15:47:00,978  INFO [main] HRM:47 - Leave details Export to excel successfully
+ 2019-11-08 15:47:09,258  INFO [main] HRM:61 - Displayed Holiday List successfully
+ 2019-11-08 15:47:12,060  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:16:28,612  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:16:31,354  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:16:37,802  INFO [main] HRM:29 - Logged in successfully
+ 2019-11-08 17:16:39,921  INFO [main] HRM:36 - Leave Details Page opened
+ 2019-11-08 17:16:40,638  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:20:34,290  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:20:37,014  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:20:43,481  INFO [main] HRM:30 - Logged in successfully
+ 2019-11-08 17:20:45,609  INFO [main] HRM:37 - Leave Details Page opened
+ 2019-11-08 17:20:49,806  INFO [main] HRM:54 - Entered From date, To date and clicked on submit button 
+ 2019-11-08 17:20:52,889  INFO [main] HRM:58 - Leave details Export to excel successfully
+ 2019-11-08 17:21:01,127  INFO [main] HRM:72 - Displayed Holiday List successfully
+ 2019-11-08 17:21:03,245  INFO [main] HRM:76 - Logged out the application successfully
+ 2019-11-08 17:21:03,956  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:29:14,881  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:29:16,049  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:29:22,482  INFO [main] HRM:30 - Logged in successfully
+ 2019-11-08 17:29:24,601  INFO [main] HRM:37 - Leave Details Page opened
+ 2019-11-08 17:29:28,789  INFO [main] HRM:51 - Entered From date, To date and clicked on submit button 
+ 2019-11-08 17:29:31,856  INFO [main] HRM:55 - Leave details Export to excel successfully
+ 2019-11-08 17:29:40,114  INFO [main] HRM:69 - Displayed Holiday List successfully
+ 2019-11-08 17:29:42,231  INFO [main] HRM:73 - Logged out the application successfully
+ 2019-11-08 17:29:42,898  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:35:31,907  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:35:32,538  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:35:36,693  INFO [main] HRM:23 - ULR opened succesfully
+ 2019-11-08 17:35:36,802  INFO [main] HRM:26 - Entered username
+ 2019-11-08 17:35:36,879  INFO [main] HRM:28 - Entered password
+ 2019-11-08 17:35:36,941  INFO [main] HRM:30 - Login Test passed successfully
+ 2019-11-08 17:35:42,692  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:35:45,405  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:35:46,328  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:35:49,573  INFO [main] HRM:23 - Username is Entered
+ 2019-11-08 17:35:49,653  INFO [main] HRM:25 - Password is Entered
+ 2019-11-08 17:35:49,724  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-08 17:35:51,784  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-08 17:35:53,860  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-08 17:35:59,205  INFO [main] HRM:55 - Attendance Details displayed successfully
+ 2019-11-08 17:36:04,939  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:36:07,720  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:36:09,145  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:36:12,371  INFO [main] HRM:22 - Username is Entered
+ 2019-11-08 17:36:12,448  INFO [main] HRM:24 - Password is Entered
+ 2019-11-08 17:36:12,509  INFO [main] HRM:26 - Logged in successfully and home page displayed
+ 2019-11-08 17:36:14,602  INFO [main] HRM:31 - Expand the Personal Information tab
+ 2019-11-08 17:36:16,659  INFO [main] HRM:34 - Personal Details page opened successfully
+ 2019-11-08 17:36:18,872  INFO [main] HRM:40 - Updated mobile Number
+ 2019-11-08 17:36:27,802  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:36:30,267  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:36:31,229  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:36:37,609  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-08 17:36:40,732  INFO [main] HRM:33 - Apply Leave page displayed
+ 2019-11-08 17:36:51,361  INFO [main] HRM:49 - Tested Apply leave page
+ 2019-11-08 17:36:53,443  INFO [main] HRM:55 - Comp off page displayed
+ 2019-11-08 17:36:59,359  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:37:01,859  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:37:07,387  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:37:13,772  INFO [main] HRM:25 - Logged in successfully
+ 2019-11-08 17:37:17,941  INFO [main] HRM:33 - Generate Request page displayed
+ 2019-11-08 17:37:23,165  INFO [main] HRM:44 - Sorry No Records found, message displayed on the screen
+ 2019-11-08 17:37:25,963  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:37:28,261  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:37:29,965  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:37:36,352  INFO [main] HRM:26 - Logged in successfully
+ 2019-11-08 17:37:42,532  INFO [main] HRM:38 - Add Traning Summary page opened
+ 2019-11-08 17:37:51,010  INFO [main] HRM:60 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-11-08 17:37:56,779  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:37:59,432  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:38:03,758  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:38:10,109  INFO [main] HRM:24 - Logged in successfully
+ 2019-11-08 17:38:12,188  INFO [main] HRM:29 - Change Password
+ 2019-11-08 17:38:15,359  INFO [main] HRM:35 - Entered New Password
+ 2019-11-08 17:38:15,449  INFO [main] HRM:37 - Entered Confirm Password
+ 2019-11-08 17:38:16,540  INFO [main] HRM:43 - Clicked on Submi button
+ 2019-11-08 17:38:22,317  INFO [main] HRM:57 - Closed the browser
+ 2019-11-08 17:38:24,795  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-08 17:38:27,344  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-08 17:38:33,689  INFO [main] HRM:30 - Logged in successfully
+ 2019-11-08 17:38:35,824  INFO [main] HRM:37 - Leave Details Page opened
+ 2019-11-08 17:38:40,052  INFO [main] HRM:51 - Entered From date, To date and clicked on submit button 
+ 2019-11-08 17:38:43,124  INFO [main] HRM:55 - Leave details Export to excel successfully
+ 2019-11-08 17:38:51,375  INFO [main] HRM:69 - Displayed Holiday List successfully
+ 2019-11-08 17:38:53,483  INFO [main] HRM:73 - Logged out the application successfully
+ 2019-11-08 17:38:54,146  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 09:12:41,639  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 09:12:44,986  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 09:12:48,229  INFO [main] HRM:23 - Username is Entered
+ 2019-11-09 09:12:48,316  INFO [main] HRM:25 - Password is Entered
+ 2019-11-09 09:12:48,374  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-09 09:12:50,453  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-09 09:12:52,511  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-09 09:12:57,876  INFO [main] HRM:50 - Attendance Details displayed successfully
+ 2019-11-09 09:13:03,614  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 09:14:41,900  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 09:14:43,404  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 09:14:46,661  INFO [main] HRM:23 - Username is Entered
+ 2019-11-09 09:14:46,740  INFO [main] HRM:25 - Password is Entered
+ 2019-11-09 09:14:46,809  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-09 09:14:48,889  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-09 09:14:50,961  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-09 09:14:56,359  INFO [main] HRM:50 - Attendance Details displayed successfully
+ 2019-11-09 09:15:01,430  INFO [main] HRM:61 - Opened Punching details
+ 2019-11-09 09:15:07,141  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 09:16:35,965  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 09:16:39,955  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 09:16:43,228  INFO [main] HRM:23 - Username is Entered
+ 2019-11-09 09:16:43,340  INFO [main] HRM:25 - Password is Entered
+ 2019-11-09 09:16:43,410  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-09 09:16:45,485  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-09 09:16:47,541  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-09 09:16:52,916  INFO [main] HRM:50 - Attendance Details displayed successfully
+ 2019-11-09 09:16:57,985  INFO [main] HRM:61 - Opened Punching details
+ 2019-11-09 09:17:03,692  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 10:17:54,927  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 10:17:56,846  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 10:18:03,297  INFO [main] HRM:30 - Logged in successfully
+ 2019-11-09 10:18:05,450  INFO [main] HRM:37 - Leave Details Page opened
+ 2019-11-09 10:18:09,645  INFO [main] HRM:51 - Entered From date, To date and clicked on submit button 
+ 2019-11-09 10:18:12,728  INFO [main] HRM:55 - Leave details Export to excel successfully
+ 2019-11-09 10:18:20,965  INFO [main] HRM:69 - Displayed Holiday List successfully
+ 2019-11-09 10:18:23,030  INFO [main] HRM:73 - Navigate to Home page
+ 2019-11-09 10:18:25,137  INFO [main] HRM:78 - Logged out the application successfully
+ 2019-11-09 10:18:25,800  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 10:39:44,202  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 10:39:47,083  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 10:39:53,536  INFO [main] HRM:30 - Logged in successfully
+ 2019-11-09 10:39:54,303  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 10:42:22,510  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 10:42:43,661  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 10:42:46,927  INFO [main] HRM:23 - Username is Entered
+ 2019-11-09 10:42:47,002  INFO [main] HRM:25 - Password is Entered
+ 2019-11-09 10:43:17,346  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-09 10:43:20,025  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 10:53:00,621  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 10:53:03,608  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 10:53:06,866  INFO [main] HRM:23 - Username is Entered
+ 2019-11-09 10:53:06,947  INFO [main] HRM:25 - Password is Entered
+ 2019-11-09 10:53:07,011  INFO [main] HRM:27 - Logged in successfully and home page displayed
+ 2019-11-09 10:53:09,095  INFO [main] HRM:33 - Expaned Personal Information tab
+ 2019-11-09 10:53:11,164  INFO [main] HRM:36 - My Attendance page opened
+ 2019-11-09 10:53:16,629  INFO [main] HRM:50 - Attendance Details displayed successfully
+ 2019-11-09 10:53:21,716  INFO [main] HRM:61 - Opened Punching details
+ 2019-11-09 10:53:36,639  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 12:08:33,914  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 12:08:37,394  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 12:08:40,663  INFO [main] HRM:22 - Username is Entered
+ 2019-11-09 12:08:40,738  INFO [main] HRM:24 - Password is Entered
+ 2019-11-09 12:08:40,808  INFO [main] HRM:26 - Logged in successfully and home page displayed
+ 2019-11-09 12:08:42,865  INFO [main] HRM:31 - Expand the Personal Information tab
+ 2019-11-09 12:08:44,925  INFO [main] HRM:34 - Personal Details page opened successfully
+ 2019-11-09 12:08:48,203  INFO [main] HRM:43 - Updated mobile Number
+ 2019-11-09 12:08:56,119  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 12:21:36,454  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 12:21:41,625  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 12:21:44,881  INFO [main] HRM:22 - Username is Entered
+ 2019-11-09 12:21:44,964  INFO [main] HRM:24 - Password is Entered
+ 2019-11-09 12:21:45,029  INFO [main] HRM:26 - Logged in successfully and home page displayed
+ 2019-11-09 12:21:47,120  INFO [main] HRM:31 - Expand the Personal Information tab
+ 2019-11-09 12:21:49,202  INFO [main] HRM:34 - Personal Details page opened successfully
+ 2019-11-09 12:21:54,561  INFO [main] HRM:45 - Updated Address
+ 2019-11-09 12:21:55,297  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 12:23:47,477  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 12:23:50,421  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 12:23:53,673  INFO [main] HRM:22 - Username is Entered
+ 2019-11-09 12:23:53,756  INFO [main] HRM:24 - Password is Entered
+ 2019-11-09 12:23:53,829  INFO [main] HRM:26 - Logged in successfully and home page displayed
+ 2019-11-09 12:23:55,886  INFO [main] HRM:31 - Expand the Personal Information tab
+ 2019-11-09 12:23:57,981  INFO [main] HRM:34 - Personal Details page opened successfully
+ 2019-11-09 12:24:03,331  INFO [main] HRM:45 - Updated Address
+ 2019-11-09 12:24:10,723  INFO [main] HRM:59 - Updated mobile Number
+ 2019-11-09 12:24:17,641  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 16:26:49,511  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 16:26:51,670  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 16:26:56,305  INFO [main] HRM:32 - ULR opened succesfully
+ 2019-11-09 16:26:56,412  INFO [main] HRM:35 - Entered username
+ 2019-11-09 16:26:56,512  INFO [main] HRM:37 - Entered password
+ 2019-11-09 16:26:56,598  INFO [main] HRM:39 - Login Test passed successfully
+ 2019-11-09 16:27:01,659  INFO [main] HRM:45 - Navigate to Home page
+ 2019-11-09 16:27:01,740  INFO [main] HRM:55 - Expaned Personal Information tab
+ 2019-11-09 16:27:03,807  INFO [main] HRM:58 - My Attendance page opened
+ 2019-11-09 16:27:09,209  INFO [main] HRM:72 - Attendance Details displayed successfully
+ 2019-11-09 16:27:14,296  INFO [main] HRM:83 - Opened Punching details
+ 2019-11-09 16:27:26,430  INFO [main] HRM:92 - Go Back to Home page
+ 2019-11-09 16:27:30,583  INFO [main] HRM:106 - Generate Request page displayed
+ 2019-11-09 16:27:35,795  INFO [main] HRM:117 - Sorry No Records found, message displayed on the screen
+ 2019-11-09 16:27:37,870  INFO [main] HRM:122 - Go Back to Home page
+ 2019-11-09 16:27:37,927  INFO [main] HRM:130 - Expand the Personal Information tab
+ 2019-11-09 16:28:16,209  INFO [main] HRM:185 - Add Traning Summary page opened
+ 2019-11-09 16:28:24,709  INFO [main] HRM:207 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-11-09 16:28:29,786  INFO [main] HRM:213 - Go Back to Home page
+ 2019-11-09 16:28:31,858  INFO [main] HRM:223 - Change Password
+ 2019-11-09 16:28:35,058  INFO [main] HRM:229 - Entered New Password
+ 2019-11-09 16:28:35,149  INFO [main] HRM:231 - Entered Confirm Password
+ 2019-11-09 16:28:36,214  INFO [main] HRM:237 - Clicked on Submi button
+ 2019-11-09 16:28:41,258  INFO [main] HRM:243 - Go Back to Home page
+ 2019-11-09 16:28:41,922  INFO [main] HRM:57 - Closed the browser
+ 2019-11-09 16:44:30,993  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-09 16:44:32,303  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-09 16:44:33,459  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-11-09 16:44:33,567  INFO [main] HRM:34 - Entered username
+ 2019-11-09 16:44:33,645  INFO [main] HRM:36 - Entered password
+ 2019-11-09 16:44:33,704  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-11-09 16:44:36,776  INFO [main] HRM:43 - Navigate to Home page
+ 2019-11-09 16:44:38,861  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-11-09 16:44:40,922  INFO [main] HRM:57 - My Attendance page opened
+ 2019-11-09 16:44:46,299  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-11-09 16:44:51,383  INFO [main] HRM:82 - Opened Punching details
+ 2019-11-09 16:45:03,525  INFO [main] HRM:91 - Go Back to Home page
+ 2019-11-09 16:45:07,674  INFO [main] HRM:105 - Generate Request page displayed
+ 2019-11-09 16:45:12,914  INFO [main] HRM:116 - Sorry No Records found, message displayed on the screen
+ 2019-11-09 16:45:14,969  INFO [main] HRM:121 - Go Back to Home page
+ 2019-11-09 16:45:15,009  INFO [main] HRM:129 - Expand the Personal Information tab
+ 2019-11-09 16:45:53,301  INFO [main] HRM:184 - Add Traning Summary page opened
+ 2019-11-09 16:46:01,775  INFO [main] HRM:206 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-11-09 16:46:06,849  INFO [main] HRM:212 - Go Back to Home page
+ 2019-11-09 16:46:08,919  INFO [main] HRM:222 - Change Password
+ 2019-11-09 16:46:12,088  INFO [main] HRM:228 - Entered New Password
+ 2019-11-09 16:46:12,182  INFO [main] HRM:230 - Entered Confirm Password
+ 2019-11-09 16:46:13,252  INFO [main] HRM:236 - Clicked on Submi button
+ 2019-11-09 16:46:18,329  INFO [main] HRM:242 - Go Back to Home page
+ 2019-11-09 16:46:20,461  INFO [main] HRM:254 - Leave Details Page opened
+ 2019-11-09 16:46:24,678  INFO [main] HRM:268 - Entered From date, To date and clicked on submit button 
+ 2019-11-09 16:46:27,763  INFO [main] HRM:272 - Leave details Export to excel successfully
+ 2019-11-09 16:46:36,033  INFO [main] HRM:286 - Displayed Holiday List successfully
+ 2019-11-09 16:46:38,066  INFO [main] HRM:290 - Navigate to Home page
+ 2019-11-09 16:46:40,170  INFO [main] HRM:295 - Logged out the application successfully
+ 2019-11-09 16:46:40,848  INFO [main] HRM:57 - Closed the browser
+ 2019-11-19 15:27:27,229  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-19 15:27:31,641  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-19 15:27:33,042  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-11-19 15:27:33,327  INFO [main] HRM:34 - Entered username
+ 2019-11-19 15:27:33,577  INFO [main] HRM:36 - Entered password
+ 2019-11-19 15:27:33,718  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-11-19 15:27:36,778  INFO [main] HRM:43 - Navigate to Home page
+ 2019-11-19 15:27:38,864  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-11-19 15:27:40,981  INFO [main] HRM:57 - My Attendance page opened
+ 2019-11-19 15:27:46,736  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-11-19 15:27:51,814  INFO [main] HRM:82 - Opened Punching details
+ 2019-11-19 15:28:03,959  INFO [main] HRM:91 - Go Back to Home page
+ 2019-11-19 15:28:08,090  INFO [main] HRM:105 - Generate Request page displayed
+ 2019-11-19 15:28:13,439  INFO [main] HRM:116 - Sorry No Records found, message displayed on the screen
+ 2019-11-19 15:28:15,559  INFO [main] HRM:121 - Go Back to Home page
+ 2019-11-19 15:28:15,608  INFO [main] HRM:129 - Expand the Personal Information tab
+ 2019-11-19 15:28:54,003  INFO [main] HRM:184 - Add Traning Summary page opened
+ 2019-11-19 15:29:02,846  INFO [main] HRM:206 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-11-19 15:29:07,943  INFO [main] HRM:212 - Go Back to Home page
+ 2019-11-19 15:29:10,055  INFO [main] HRM:222 - Change Password
+ 2019-11-19 15:29:13,296  INFO [main] HRM:228 - Entered New Password
+ 2019-11-19 15:29:13,393  INFO [main] HRM:230 - Entered Confirm Password
+ 2019-11-19 15:29:14,458  INFO [main] HRM:236 - Clicked on Submi button
+ 2019-11-19 15:29:19,499  INFO [main] HRM:242 - Go Back to Home page
+ 2019-11-19 15:29:21,643  INFO [main] HRM:254 - Leave Details Page opened
+ 2019-11-19 15:29:25,852  INFO [main] HRM:268 - Entered From date, To date and clicked on submit button 
+ 2019-11-19 15:29:28,928  INFO [main] HRM:272 - Leave details Export to excel successfully
+ 2019-11-19 15:29:37,162  INFO [main] HRM:286 - Displayed Holiday List successfully
+ 2019-11-19 15:29:39,200  INFO [main] HRM:290 - Navigate to Home page
+ 2019-11-19 15:29:41,319  INFO [main] HRM:295 - Logged out the application successfully
+ 2019-11-19 15:29:42,160  INFO [main] HRM:57 - Closed the browser
+ 2019-11-19 15:33:27,746  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-19 15:33:30,093  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-19 15:33:31,348  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-11-19 15:33:31,593  INFO [main] HRM:34 - Entered username
+ 2019-11-19 15:33:31,793  INFO [main] HRM:36 - Entered password
+ 2019-11-19 15:33:31,911  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-11-19 15:33:35,014  INFO [main] HRM:43 - Navigate to Home page
+ 2019-11-19 15:33:37,113  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-11-19 15:33:39,216  INFO [main] HRM:57 - My Attendance page opened
+ 2019-11-19 15:33:44,836  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-11-19 15:33:49,922  INFO [main] HRM:82 - Opened Punching details
+ 2019-11-19 15:34:02,041  INFO [main] HRM:91 - Go Back to Home page
+ 2019-11-19 15:34:06,197  INFO [main] HRM:105 - Generate Request page displayed
+ 2019-11-19 15:34:11,448  INFO [main] HRM:116 - Sorry No Records found, message displayed on the screen
+ 2019-11-19 15:34:13,490  INFO [main] HRM:121 - Go Back to Home page
+ 2019-11-19 15:34:13,551  INFO [main] HRM:129 - Expand the Personal Information tab
+ 2019-11-19 15:34:51,831  INFO [main] HRM:184 - Add Traning Summary page opened
+ 2019-11-19 15:35:00,326  INFO [main] HRM:206 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-11-19 15:35:05,378  INFO [main] HRM:212 - Go Back to Home page
+ 2019-11-19 15:35:07,436  INFO [main] HRM:222 - Change Password
+ 2019-11-19 15:35:10,575  INFO [main] HRM:228 - Entered New Password
+ 2019-11-19 15:35:10,654  INFO [main] HRM:230 - Entered Confirm Password
+ 2019-11-19 15:35:11,709  INFO [main] HRM:236 - Clicked on Submi button
+ 2019-11-19 15:35:16,748  INFO [main] HRM:242 - Go Back to Home page
+ 2019-11-19 15:35:18,878  INFO [main] HRM:254 - Leave Details Page opened
+ 2019-11-19 15:35:23,055  INFO [main] HRM:268 - Entered From date, To date and clicked on submit button 
+ 2019-11-19 15:35:26,124  INFO [main] HRM:272 - Leave details Export to excel successfully
+ 2019-11-19 15:35:34,322  INFO [main] HRM:286 - Displayed Holiday List successfully
+ 2019-11-19 15:35:36,358  INFO [main] HRM:290 - Navigate to Home page
+ 2019-11-19 15:35:38,459  INFO [main] HRM:295 - Logged out the application successfully
+ 2019-11-19 15:35:39,112  INFO [main] HRM:57 - Closed the browser
+ 2019-11-19 15:45:24,824  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-19 15:45:29,396  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-19 15:45:30,546  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-11-19 15:45:30,671  INFO [main] HRM:34 - Entered username
+ 2019-11-19 15:45:30,758  INFO [main] HRM:36 - Entered password
+ 2019-11-19 15:45:30,817  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-11-19 15:45:33,896  INFO [main] HRM:43 - Navigate to Home page
+ 2019-11-19 15:45:35,983  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-11-19 15:45:38,057  INFO [main] HRM:57 - My Attendance page opened
+ 2019-11-19 15:45:43,500  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-11-19 15:45:48,560  INFO [main] HRM:82 - Opened Punching details
+ 2019-11-19 15:45:59,750  INFO [main] HRM:91 - Go Back to Home page
+ 2019-11-19 15:45:59,814  INFO [main] HRM:129 - Expand the Personal Information tab
+ 2019-11-19 15:46:36,098  INFO [main] HRM:105 - Generate Request page displayed
+ 2019-11-19 15:46:41,346  INFO [main] HRM:116 - Sorry No Records found, message displayed on the screen
+ 2019-11-19 15:46:43,429  INFO [main] HRM:121 - Go Back to Home page
+ 2019-11-19 15:46:49,690  INFO [main] HRM:184 - Add Traning Summary page opened
+ 2019-11-19 15:46:58,257  INFO [main] HRM:206 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-11-19 15:47:03,349  INFO [main] HRM:212 - Go Back to Home page
+ 2019-11-19 15:47:05,423  INFO [main] HRM:222 - Change Password
+ 2019-11-19 15:47:08,597  INFO [main] HRM:228 - Entered New Password
+ 2019-11-19 15:47:08,707  INFO [main] HRM:230 - Entered Confirm Password
+ 2019-11-19 15:47:09,780  INFO [main] HRM:236 - Clicked on Submi button
+ 2019-11-19 15:47:14,844  INFO [main] HRM:242 - Go Back to Home page
+ 2019-11-19 15:47:16,983  INFO [main] HRM:254 - Leave Details Page opened
+ 2019-11-19 15:47:21,225  INFO [main] HRM:268 - Entered From date, To date and clicked on submit button 
+ 2019-11-19 15:47:24,327  INFO [main] HRM:272 - Leave details Export to excel successfully
+ 2019-11-19 15:47:32,608  INFO [main] HRM:286 - Displayed Holiday List successfully
+ 2019-11-19 15:47:34,675  INFO [main] HRM:290 - Navigate to Home page
+ 2019-11-19 15:47:36,785  INFO [main] HRM:295 - Logged out the application successfully
+ 2019-11-19 15:47:37,458  INFO [main] HRM:57 - Closed the browser
+ 2019-11-19 15:56:40,466  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-11-19 15:56:42,303  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-11-19 15:56:43,462  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-11-19 15:56:43,575  INFO [main] HRM:34 - Entered username
+ 2019-11-19 15:56:43,656  INFO [main] HRM:36 - Entered password
+ 2019-11-19 15:56:43,721  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-11-19 15:56:46,782  INFO [main] HRM:43 - Navigate to Home page
+ 2019-11-19 15:56:48,847  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-11-19 15:56:50,945  INFO [main] HRM:57 - My Attendance page opened
+ 2019-11-19 15:56:56,408  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-11-19 15:57:01,481  INFO [main] HRM:82 - Opened Punching details
+ 2019-11-19 15:57:12,640  INFO [main] HRM:93 - Go Back to Home page
+ 2019-11-19 15:57:12,648  INFO [main] HRM:131 - Expand the Personal Information tab
+ 2019-11-19 15:57:14,753  INFO [main] HRM:134 - Personal Details page opened successfully
+ 2019-11-19 15:57:20,164  INFO [main] HRM:145 - Updated Address
+ 2019-11-19 15:57:27,569  INFO [main] HRM:159 - Updated mobile Number
+ 2019-11-19 15:57:31,692  INFO [main] HRM:169 - Go Back to Home page
+ 2019-11-19 15:57:35,884  INFO [main] HRM:107 - Generate Request page displayed
+ 2019-11-19 15:57:41,231  INFO [main] HRM:118 - Sorry No Records found, message displayed on the screen
+ 2019-11-19 15:57:43,301  INFO [main] HRM:123 - Go Back to Home page
+ 2019-11-19 15:57:49,520  INFO [main] HRM:186 - Add Traning Summary page opened
+ 2019-11-19 15:57:58,033  INFO [main] HRM:208 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-11-19 15:58:03,122  INFO [main] HRM:214 - Go Back to Home page
+ 2019-11-19 15:58:05,190  INFO [main] HRM:224 - Change Password
+ 2019-11-19 15:58:08,368  INFO [main] HRM:230 - Entered New Password
+ 2019-11-19 15:58:08,485  INFO [main] HRM:232 - Entered Confirm Password
+ 2019-11-19 15:58:09,582  INFO [main] HRM:238 - Clicked on Submi button
+ 2019-11-19 15:58:14,667  INFO [main] HRM:244 - Go Back to Home page
+ 2019-11-19 15:58:16,819  INFO [main] HRM:256 - Leave Details Page opened
+ 2019-11-19 15:58:21,057  INFO [main] HRM:270 - Entered From date, To date and clicked on submit button 
+ 2019-11-19 15:58:24,166  INFO [main] HRM:274 - Leave details Export to excel successfully
+ 2019-11-19 15:58:32,459  INFO [main] HRM:288 - Displayed Holiday List successfully
+ 2019-11-19 15:58:34,549  INFO [main] HRM:292 - Navigate to Home page
+ 2019-11-19 15:58:36,672  INFO [main] HRM:297 - Logged out the application successfully
+ 2019-11-19 15:58:37,359  INFO [main] HRM:57 - Closed the browser
+ 2019-12-03 17:13:45,247  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-03 17:13:48,294  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-03 17:13:49,575  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-12-03 17:13:49,968  INFO [main] HRM:34 - Entered username
+ 2019-12-03 17:13:50,065  INFO [main] HRM:36 - Entered password
+ 2019-12-03 17:13:50,134  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-12-03 17:13:53,201  INFO [main] HRM:43 - Navigate to Home page
+ 2019-12-03 17:13:55,350  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-12-03 17:13:57,418  INFO [main] HRM:57 - My Attendance page opened
+ 2019-12-03 17:14:03,094  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-12-03 17:14:38,358  INFO [main] HRM:131 - Expand the Personal Information tab
+ 2019-12-03 17:14:40,468  INFO [main] HRM:134 - Personal Details page opened successfully
+ 2019-12-03 17:14:45,875  INFO [main] HRM:145 - Updated Address
+ 2019-12-03 17:14:53,392  INFO [main] HRM:159 - Updated mobile Number
+ 2019-12-03 17:14:57,606  INFO [main] HRM:169 - Go Back to Home page
+ 2019-12-03 17:15:01,758  INFO [main] HRM:107 - Generate Request page displayed
+ 2019-12-03 17:15:07,074  INFO [main] HRM:118 - Sorry No Records found, message displayed on the screen
+ 2019-12-03 17:15:09,137  INFO [main] HRM:123 - Go Back to Home page
+ 2019-12-03 17:15:15,377  INFO [main] HRM:186 - Add Traning Summary page opened
+ 2019-12-03 17:15:23,924  INFO [main] HRM:208 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-12-03 17:15:28,989  INFO [main] HRM:214 - Go Back to Home page
+ 2019-12-03 17:15:31,110  INFO [main] HRM:224 - Change Password
+ 2019-12-03 17:15:34,316  INFO [main] HRM:230 - Entered New Password
+ 2019-12-03 17:15:34,424  INFO [main] HRM:232 - Entered Confirm Password
+ 2019-12-03 17:15:35,519  INFO [main] HRM:238 - Clicked on Submi button
+ 2019-12-03 17:15:40,587  INFO [main] HRM:244 - Go Back to Home page
+ 2019-12-03 17:15:41,434  INFO [main] HRM:57 - Closed the browser
+ 2019-12-03 17:29:59,995  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-03 17:30:02,668  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-03 17:30:03,819  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-12-03 17:30:03,952  INFO [main] HRM:34 - Entered username
+ 2019-12-03 17:30:04,048  INFO [main] HRM:36 - Entered password
+ 2019-12-03 17:30:04,130  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-12-03 17:30:07,189  INFO [main] HRM:43 - Navigate to Home page
+ 2019-12-03 17:30:09,266  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-12-03 17:30:11,374  INFO [main] HRM:57 - My Attendance page opened
+ 2019-12-03 17:30:16,851  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-12-03 17:32:42,455  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-03 17:32:43,485  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-03 17:32:44,646  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-12-03 17:32:44,770  INFO [main] HRM:34 - Entered username
+ 2019-12-03 17:32:44,854  INFO [main] HRM:36 - Entered password
+ 2019-12-03 17:32:44,919  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-12-03 17:32:47,999  INFO [main] HRM:43 - Navigate to Home page
+ 2019-12-03 17:32:50,072  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-12-03 17:32:52,138  INFO [main] HRM:57 - My Attendance page opened
+ 2019-12-03 17:32:57,580  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-12-03 17:33:32,645  INFO [main] HRM:131 - Expand the Personal Information tab
+ 2019-12-03 17:33:34,748  INFO [main] HRM:134 - Personal Details page opened successfully
+ 2019-12-03 17:33:40,102  INFO [main] HRM:145 - Updated Address
+ 2019-12-03 17:33:47,542  INFO [main] HRM:159 - Updated mobile Number
+ 2019-12-03 17:33:51,676  INFO [main] HRM:169 - Go Back to Home page
+ 2019-12-03 17:33:55,816  INFO [main] HRM:107 - Generate Request page displayed
+ 2019-12-03 17:34:01,184  INFO [main] HRM:118 - Sorry No Records found, message displayed on the screen
+ 2019-12-03 17:34:03,261  INFO [main] HRM:123 - Go Back to Home page
+ 2019-12-03 17:34:09,513  INFO [main] HRM:186 - Add Traning Summary page opened
+ 2019-12-03 17:34:18,055  INFO [main] HRM:208 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-12-03 17:34:23,119  INFO [main] HRM:214 - Go Back to Home page
+ 2019-12-03 17:34:25,184  INFO [main] HRM:224 - Change Password
+ 2019-12-03 17:34:28,358  INFO [main] HRM:230 - Entered New Password
+ 2019-12-03 17:34:28,477  INFO [main] HRM:232 - Entered Confirm Password
+ 2019-12-03 17:34:29,553  INFO [main] HRM:238 - Clicked on Submi button
+ 2019-12-03 17:34:34,639  INFO [main] HRM:244 - Go Back to Home page
+ 2019-12-03 17:34:36,790  INFO [main] HRM:256 - Leave Details Page opened
+ 2019-12-03 17:34:40,986  INFO [main] HRM:270 - Entered From date, To date and clicked on submit button 
+ 2019-12-03 17:35:11,692  INFO [main] HRM:57 - Closed the browser
+ 2019-12-03 17:43:04,316  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-03 17:43:05,866  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-03 17:43:07,016  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-12-03 17:43:07,197  INFO [main] HRM:34 - Entered username
+ 2019-12-03 17:43:07,305  INFO [main] HRM:36 - Entered password
+ 2019-12-03 17:43:07,398  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-12-03 17:43:10,469  INFO [main] HRM:43 - Navigate to Home page
+ 2019-12-03 17:43:12,561  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-12-03 17:43:14,631  INFO [main] HRM:57 - My Attendance page opened
+ 2019-12-03 17:43:20,090  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-12-03 17:49:16,112  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-03 17:49:18,470  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-03 17:49:19,623  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-12-03 17:49:19,780  INFO [main] HRM:34 - Entered username
+ 2019-12-03 17:49:19,895  INFO [main] HRM:36 - Entered password
+ 2019-12-03 17:49:19,969  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-12-03 17:49:23,045  INFO [main] HRM:43 - Navigate to Home page
+ 2019-12-03 17:49:25,133  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-12-03 17:49:27,210  INFO [main] HRM:57 - My Attendance page opened
+ 2019-12-03 17:49:32,715  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-12-03 17:49:37,788  INFO [main] HRM:82 - Opened Punching details
+ 2019-12-03 17:49:48,906  INFO [main] HRM:93 - Go Back to Home page
+ 2019-12-03 17:49:48,912  INFO [main] HRM:131 - Expand the Personal Information tab
+ 2019-12-03 17:49:50,981  INFO [main] HRM:134 - Personal Details page opened successfully
+ 2019-12-03 17:49:56,325  INFO [main] HRM:145 - Updated Address
+ 2019-12-03 17:50:04,317  INFO [main] HRM:159 - Updated mobile Number
+ 2019-12-03 17:50:08,641  INFO [main] HRM:169 - Go Back to Home page
+ 2019-12-03 17:50:12,775  INFO [main] HRM:107 - Generate Request page displayed
+ 2019-12-03 17:50:18,141  INFO [main] HRM:118 - Sorry No Records found, message displayed on the screen
+ 2019-12-03 17:50:20,224  INFO [main] HRM:123 - Go Back to Home page
+ 2019-12-03 17:50:26,439  INFO [main] HRM:186 - Add Traning Summary page opened
+ 2019-12-03 17:50:34,985  INFO [main] HRM:208 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-12-03 17:50:40,031  INFO [main] HRM:214 - Go Back to Home page
+ 2019-12-03 17:50:42,100  INFO [main] HRM:224 - Change Password
+ 2019-12-03 17:50:45,284  INFO [main] HRM:230 - Entered New Password
+ 2019-12-03 17:50:45,394  INFO [main] HRM:232 - Entered Confirm Password
+ 2019-12-03 17:50:46,486  INFO [main] HRM:238 - Clicked on Submi button
+ 2019-12-03 17:50:51,536  INFO [main] HRM:244 - Go Back to Home page
+ 2019-12-03 17:50:53,683  INFO [main] HRM:256 - Leave Details Page opened
+ 2019-12-03 17:50:57,891  INFO [main] HRM:270 - Entered From date, To date and clicked on submit button 
+ 2019-12-03 17:51:06,136  INFO [main] HRM:290 - Displayed Holiday List successfully
+ 2019-12-03 17:51:08,184  INFO [main] HRM:294 - Navigate to Home page
+ 2019-12-03 17:51:10,333  INFO [main] HRM:299 - Logged out the application successfully
+ 2019-12-03 17:51:11,095  INFO [main] HRM:57 - Closed the browser
+ 2019-12-03 18:25:24,085  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-03 18:25:25,625  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-03 18:25:32,462  INFO [main] HRM:30 - Logged in successfully
+ 2019-12-03 18:25:33,960  INFO [main] HRM:57 - Closed the browser
+ 2019-12-04 10:21:01,403  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-04 10:21:03,077  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-04 10:21:09,836  INFO [main] HRM:30 - Logged in successfully
+ 2019-12-04 10:21:10,882  INFO [main] HRM:57 - Closed the browser
+ 2019-12-04 10:22:56,630  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-04 10:22:58,347  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-04 10:23:04,870  INFO [main] HRM:30 - Logged in successfully
+ 2019-12-04 10:23:05,686  INFO [main] HRM:57 - Closed the browser
+ 2019-12-04 10:24:55,395  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-04 10:24:56,533  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-04 10:25:07,041  INFO [main] HRM:30 - Logged in successfully
+ 2019-12-04 10:25:09,230  INFO [main] HRM:37 - Leave Details Page opened
+ 2019-12-04 10:25:13,577  INFO [main] HRM:51 - Entered From date, To date and clicked on submit button 
+ 2019-12-04 10:25:21,951  INFO [main] HRM:71 - Displayed Holiday List successfully
+ 2019-12-04 10:25:24,033  INFO [main] HRM:75 - Navigate to Home page
+ 2019-12-04 10:25:39,093  INFO [main] HRM:57 - Closed the browser
+ 2019-12-04 10:26:40,535  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-04 10:26:43,590  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-04 10:26:54,018  INFO [main] HRM:32 - Logged in successfully
+ 2019-12-04 10:26:56,188  INFO [main] HRM:39 - Leave Details Page opened
+ 2019-12-04 10:27:00,502  INFO [main] HRM:53 - Entered From date, To date and clicked on submit button 
+ 2019-12-04 10:27:08,789  INFO [main] HRM:73 - Displayed Holiday List successfully
+ 2019-12-04 10:27:10,899  INFO [main] HRM:77 - Navigate to Home page
+ 2019-12-04 10:27:15,995  INFO [main] HRM:57 - Closed the browser
+ 2019-12-04 11:32:10,967  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-04 11:32:12,374  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-04 11:32:13,521  INFO [main] HRM:31 - ULR opened succesfully
+ 2019-12-04 11:32:13,645  INFO [main] HRM:34 - Entered username
+ 2019-12-04 11:32:13,726  INFO [main] HRM:36 - Entered password
+ 2019-12-04 11:32:13,787  INFO [main] HRM:38 - Login Test passed successfully
+ 2019-12-04 11:32:16,846  INFO [main] HRM:43 - Navigate to Home page
+ 2019-12-04 11:32:18,914  INFO [main] HRM:54 - Expaned Personal Information tab
+ 2019-12-04 11:32:21,010  INFO [main] HRM:57 - My Attendance page opened
+ 2019-12-04 11:32:26,438  INFO [main] HRM:71 - Attendance Details displayed successfully
+ 2019-12-04 11:32:31,513  INFO [main] HRM:82 - Opened Punching details
+ 2019-12-04 11:32:42,673  INFO [main] HRM:93 - Go Back to Home page
+ 2019-12-04 11:32:42,678  INFO [main] HRM:131 - Expand the Personal Information tab
+ 2019-12-04 11:32:44,745  INFO [main] HRM:134 - Personal Details page opened successfully
+ 2019-12-04 11:32:50,154  INFO [main] HRM:145 - Updated Address
+ 2019-12-04 11:32:57,587  INFO [main] HRM:159 - Updated mobile Number
+ 2019-12-04 11:33:01,689  INFO [main] HRM:169 - Go Back to Home page
+ 2019-12-04 11:33:05,836  INFO [main] HRM:107 - Generate Request page displayed
+ 2019-12-04 11:33:11,163  INFO [main] HRM:118 - Sorry No Records found, message displayed on the screen
+ 2019-12-04 11:33:13,229  INFO [main] HRM:123 - Go Back to Home page
+ 2019-12-04 11:33:19,471  INFO [main] HRM:186 - Add Traning Summary page opened
+ 2019-12-04 11:33:27,987  INFO [main] HRM:208 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-12-04 11:33:33,066  INFO [main] HRM:214 - Go Back to Home page
+ 2019-12-04 11:33:35,135  INFO [main] HRM:224 - Change Password
+ 2019-12-04 11:33:38,315  INFO [main] HRM:230 - Entered New Password
+ 2019-12-04 11:33:38,428  INFO [main] HRM:232 - Entered Confirm Password
+ 2019-12-04 11:33:39,517  INFO [main] HRM:238 - Clicked on Submit button
+ 2019-12-04 11:33:44,592  INFO [main] HRM:244 - Go Back to Home page
+ 2019-12-04 11:33:46,732  INFO [main] HRM:256 - Leave Details Page opened
+ 2019-12-04 11:33:50,963  INFO [main] HRM:270 - Entered From date, To date and clicked on submit button 
+ 2019-12-04 11:33:59,200  INFO [main] HRM:290 - Displayed Holiday List successfully
+ 2019-12-04 11:34:01,258  INFO [main] HRM:294 - Navigate to Home page
+ 2019-12-04 11:34:03,333  INFO [main] HRM:298 - Staff Summary Page opened
+ 2019-12-04 11:34:23,643  INFO [main] HRM:311 - Logged out the application successfully
+ 2019-12-04 11:34:24,365  INFO [main] HRM:57 - Closed the browser
+ 2019-12-04 11:54:44,534  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-04 11:54:46,212  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-04 11:54:47,374  INFO [main] HRM:32 - ULR opened succesfully
+ 2019-12-04 11:54:47,494  INFO [main] HRM:35 - Entered username
+ 2019-12-04 11:54:47,620  INFO [main] HRM:37 - Entered password
+ 2019-12-04 11:54:47,688  INFO [main] HRM:39 - Login Test passed successfully
+ 2019-12-04 11:54:50,742  INFO [main] HRM:44 - Navigate to Home page
+ 2019-12-04 11:54:52,812  INFO [main] HRM:55 - Expaned Personal Information tab
+ 2019-12-04 11:54:54,929  INFO [main] HRM:58 - My Attendance page opened
+ 2019-12-04 11:55:00,444  INFO [main] HRM:72 - Attendance Details displayed successfully
+ 2019-12-04 11:55:05,540  INFO [main] HRM:83 - Opened Punching details
+ 2019-12-04 11:55:16,715  INFO [main] HRM:94 - Go Back to Home page
+ 2019-12-04 11:55:16,722  INFO [main] HRM:106 - Expand the Personal Information tab
+ 2019-12-04 11:55:18,852  INFO [main] HRM:109 - Personal Details page opened successfully
+ 2019-12-04 11:55:24,299  INFO [main] HRM:120 - Updated Address
+ 2019-12-04 11:55:31,856  INFO [main] HRM:134 - Updated mobile Number
+ 2019-12-04 11:55:37,021  INFO [main] HRM:144 - Go Back to Home page
+ 2019-12-04 11:55:40,204  INFO [main] HRM:158 - Apply Leave page displayed
+ 2019-12-04 11:55:52,019  INFO [main] HRM:174 - leave Applied Successfully
+ 2019-12-04 11:55:56,206  INFO [main] HRM:183 - Comp off page displayed
+ 2019-12-04 11:56:00,486  INFO [main] HRM:57 - Closed the browser
+ 2019-12-04 12:09:42,457  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-04 12:09:43,635  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-04 12:09:44,817  INFO [main] HRM:32 - ULR opened succesfully
+ 2019-12-04 12:09:44,938  INFO [main] HRM:35 - Entered username
+ 2019-12-04 12:09:45,016  INFO [main] HRM:37 - Entered password
+ 2019-12-04 12:09:45,080  INFO [main] HRM:39 - Login Test passed successfully
+ 2019-12-04 12:09:48,190  INFO [main] HRM:44 - Navigate to Home page
+ 2019-12-04 12:09:50,275  INFO [main] HRM:55 - Expaned Personal Information tab
+ 2019-12-04 12:09:52,354  INFO [main] HRM:58 - My Attendance page opened
+ 2019-12-04 12:09:57,837  INFO [main] HRM:72 - Attendance Details displayed successfully
+ 2019-12-04 12:10:02,940  INFO [main] HRM:83 - Opened Punching details
+ 2019-12-04 12:10:10,061  INFO [main] HRM:99 - Expand the Personal Information tab
+ 2019-12-04 12:10:12,189  INFO [main] HRM:102 - Personal Details page opened successfully
+ 2019-12-04 12:10:17,598  INFO [main] HRM:113 - Updated Address
+ 2019-12-04 12:10:25,078  INFO [main] HRM:127 - Updated mobile Number
+ 2019-12-04 12:10:30,266  INFO [main] HRM:137 - Go Back to Home page
+ 2019-12-04 12:10:33,492  INFO [main] HRM:151 - Apply Leave page displayed
+ 2019-12-04 12:10:45,234  INFO [main] HRM:167 - leave Applied Successfully
+ 2019-12-04 12:10:51,473  INFO [main] HRM:184 - Generate Request page displayed
+ 2019-12-04 12:10:56,751  INFO [main] HRM:195 - Sorry No Records found, message displayed on the screen
+ 2019-12-04 12:10:58,838  INFO [main] HRM:200 - Go Back to Home page
+ 2019-12-04 12:11:05,075  INFO [main] HRM:216 - Add Traning Summary page opened
+ 2019-12-04 12:11:13,590  INFO [main] HRM:238 - Entered Training Sumamry Details and clicked on close button successfully
+ 2019-12-04 12:11:18,647  INFO [main] HRM:244 - Go Back to Home page
+ 2019-12-04 12:11:20,720  INFO [main] HRM:254 - Change Password
+ 2019-12-04 12:11:23,889  INFO [main] HRM:260 - Entered New Password
+ 2019-12-04 12:11:23,973  INFO [main] HRM:262 - Entered Confirm Password
+ 2019-12-04 12:11:25,046  INFO [main] HRM:268 - Clicked on Submit button
+ 2019-12-04 12:11:30,086  INFO [main] HRM:274 - Go Back to Home page
+ 2019-12-04 12:11:32,213  INFO [main] HRM:286 - Leave Details Page opened
+ 2019-12-04 12:11:36,388  INFO [main] HRM:300 - Entered From date, To date and clicked on submit button 
+ 2019-12-04 12:11:44,661  INFO [main] HRM:320 - Displayed Holiday List successfully
+ 2019-12-04 12:11:46,749  INFO [main] HRM:324 - Navigate to Home page
+ 2019-12-04 12:11:48,850  INFO [main] HRM:328 - Staff Summary Page opened
+ 2019-12-04 12:12:09,144  INFO [main] HRM:340 - Go Back to Home page
+ 2019-12-04 12:12:12,290  INFO [main] HRM:345 - Logged out the application successfully
+ 2019-12-04 12:12:12,988  INFO [main] HRM:57 - Closed the browser
+ 2019-12-04 12:40:07,787  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-04 12:40:09,243  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-04 12:40:10,674  INFO [main] HRM:37 - Logged-In successfully
+ 2019-12-04 12:40:33,457  INFO [main] HRM:77 - My Attendance Details displayed successfully
+ 2019-12-04 12:40:35,701  INFO [main] HRM:93 - Personal Details page opened successfully
+ 2019-12-04 12:41:03,689  INFO [main] HRM:155 - Leave Applied Successfully
+ 2019-12-04 12:41:13,234  INFO [main] HRM:176 - Generate Request message successfully
+ 2019-12-04 12:41:15,361  INFO [main] HRM:183 - Opened Bank Account Details Successfully
+ 2019-12-04 12:41:32,420  INFO [main] HRM:226 - Training Sumamry added successfully
+ 2019-12-04 12:41:44,029  INFO [main] HRM:255 - Password Changed Successfully
+ 2019-12-04 12:41:55,437  INFO [main] HRM:286 - Leave Details opened successfully
+ 2019-12-04 12:42:03,709  INFO [main] HRM:306 - Holiday List Displayed successfully
+ 2019-12-04 12:42:26,012  INFO [main] HRM:323 - Staff Summary Report Displayed Successfully
+ 2019-12-04 12:42:28,074  INFO [main] HRM:327 - Navigate to Home page
+ 2019-12-04 12:42:31,169  INFO [main] HRM:332 - Logged out the application successfully
+ 2019-12-04 12:42:31,847  INFO [main] HRM:57 - Closed the browser
+ 2019-12-04 17:00:19,074  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-04 17:00:27,576  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-04 17:00:31,739  INFO [main] HRM:24 - ULR opened succesfully
+ 2019-12-04 17:00:32,010  INFO [main] HRM:27 - Entered username
+ 2019-12-04 17:00:32,099  INFO [main] HRM:29 - Entered password
+ 2019-12-04 17:00:32,169  INFO [main] HRM:31 - Login Test passed successfully
+ 2019-12-04 17:00:35,183  INFO [main] HRM:38 - Login passed successfully
+ 2019-12-04 17:00:37,997  INFO [main] HRM:57 - Closed the browser
+ 2019-12-04 17:09:47,848  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-04 17:09:54,127  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-04 17:09:55,585  INFO [main] HRM:37 - Logged-In successfully
+ 2019-12-04 17:09:58,592  INFO [main] HRM:43 - Dashboard Title verified successfully
+ 2019-12-04 17:10:16,301  INFO [main] HRM:84 - My Attendance Details displayed successfully
+ 2019-12-07 11:09:27,871  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-07 11:09:29,291  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-07 11:09:30,948  INFO [main] HRM:37 - Logged-In successfully
+ 2019-12-07 11:09:33,963  INFO [main] HRM:43 - Dashboard Title verified successfully
+ 2019-12-07 11:09:51,900  INFO [main] HRM:84 - My Attendance Details displayed successfully
+ 2019-12-07 11:10:21,912  INFO [main] HRM:159 - Leave Applied Successfully
+ 2019-12-07 11:10:31,415  INFO [main] HRM:180 - Generate Request message successfully
+ 2019-12-07 11:10:33,483  INFO [main] HRM:187 - Opened Bank Account Details Successfully
+ 2019-12-07 11:10:50,348  INFO [main] HRM:230 - Training Sumamry added successfully
+ 2019-12-07 11:11:01,830  INFO [main] HRM:259 - Password Changed Successfully
+ 2019-12-07 11:11:13,285  INFO [main] HRM:290 - Leave Details opened successfully
+ 2019-12-07 11:11:21,523  INFO [main] HRM:310 - Holiday List Displayed successfully
+ 2019-12-07 11:11:43,841  INFO [main] HRM:327 - Staff Summary Report Displayed Successfully
+ 2019-12-07 11:11:45,904  INFO [main] HRM:331 - Navigate to Home page
+ 2019-12-07 11:11:49,009  INFO [main] HRM:336 - Logged out the application successfully
+ 2019-12-07 11:11:49,019  INFO [main] HRM:341 - Logout page verified & welcome back to login page successfully
+ 2019-12-07 11:11:49,758  INFO [main] HRM:57 - Closed the browser
+ 2019-12-07 14:41:47,447  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-07 14:41:53,849  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-07 14:41:55,348  INFO [main] HRM:38 - Logged-In successfully
+ 2019-12-07 14:41:58,363  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2019-12-07 14:42:16,112  INFO [main] HRM:85 - My Attendance Details displayed successfully
+ 2019-12-07 14:43:09,502  INFO [main] HRM:160 - Leave Applied Successfully
+ 2019-12-07 14:43:18,921  INFO [main] HRM:181 - Generate Request message successfully
+ 2019-12-07 14:43:20,994  INFO [main] HRM:188 - Opened Bank Account Details Successfully
+ 2019-12-07 14:43:37,804  INFO [main] HRM:231 - Training Sumamry added successfully
+ 2019-12-07 14:43:49,291  INFO [main] HRM:260 - Password Changed Successfully
+ 2019-12-07 14:44:00,715  INFO [main] HRM:291 - Leave Details opened successfully
+ 2019-12-07 14:44:08,941  INFO [main] HRM:311 - Holiday List Displayed successfully
+ 2019-12-07 14:44:31,269  INFO [main] HRM:328 - Staff Summary Report Displayed Successfully
+ 2019-12-07 14:44:33,320  INFO [main] HRM:332 - Navigate to Home page
+ 2019-12-07 14:44:36,429  INFO [main] HRM:337 - Logged out the application successfully
+ 2019-12-07 14:44:36,438  INFO [main] HRM:342 - Logout page verified & welcome back to login page successfully
+ 2019-12-07 14:44:37,148  INFO [main] HRM:57 - Closed the browser
+ 2019-12-07 14:56:48,749  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-07 14:56:50,330  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-07 14:56:51,756  INFO [main] HRM:38 - Logged-In successfully
+ 2019-12-07 14:56:54,764  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2019-12-07 14:57:12,388  INFO [main] HRM:85 - My Attendance Details displayed successfully
+ 2019-12-07 14:58:05,759  INFO [main] HRM:160 - Leave Applied Successfully
+ 2019-12-07 14:58:15,207  INFO [main] HRM:181 - Generate Request message successfully
+ 2019-12-07 14:58:17,282  INFO [main] HRM:188 - Opened Bank Account Details Successfully
+ 2019-12-07 14:58:34,060  INFO [main] HRM:231 - Training Sumamry added successfully
+ 2019-12-07 14:58:45,587  INFO [main] HRM:260 - Password Changed Successfully
+ 2019-12-07 14:58:57,006  INFO [main] HRM:291 - Leave Details opened successfully
+ 2019-12-07 14:59:05,257  INFO [main] HRM:311 - Holiday List Displayed successfully
+ 2019-12-07 14:59:27,566  INFO [main] HRM:328 - Staff Summary Report Displayed Successfully
+ 2019-12-07 14:59:29,610  INFO [main] HRM:332 - Navigate to Home page
+ 2019-12-07 14:59:32,714  INFO [main] HRM:337 - Logged out the application successfully
+ 2019-12-07 14:59:32,723  INFO [main] HRM:342 - Logout page verified & welcome back to login page successfully
+ 2019-12-07 14:59:33,418  INFO [main] HRM:57 - Closed the browser
+ 2019-12-09 17:29:07,138  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-09 17:29:13,574  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-09 17:29:15,113  INFO [main] HRM:38 - Logged-In successfully
+ 2019-12-09 17:29:18,127  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2019-12-09 17:29:35,858  INFO [main] HRM:85 - My Attendance Details displayed successfully
+ 2019-12-09 17:30:05,802  INFO [main] HRM:160 - Leave Applied Successfully
+ 2019-12-09 17:30:15,320  INFO [main] HRM:181 - Generate Request message successfully
+ 2019-12-09 17:30:17,390  INFO [main] HRM:188 - Opened Bank Account Details Successfully
+ 2019-12-09 17:30:34,275  INFO [main] HRM:231 - Training Sumamry added successfully
+ 2019-12-09 17:30:45,791  INFO [main] HRM:260 - Password Changed Successfully
+ 2019-12-09 17:30:57,233  INFO [main] HRM:291 - Leave Details opened successfully
+ 2019-12-09 17:31:05,476  INFO [main] HRM:311 - Holiday List Displayed successfully
+ 2019-12-09 17:31:27,823  INFO [main] HRM:328 - Staff Summary Report Displayed Successfully
+ 2019-12-09 17:31:29,861  INFO [main] HRM:332 - Navigate to Home page
+ 2019-12-09 17:31:32,972  INFO [main] HRM:337 - Logged out the application successfully
+ 2019-12-09 17:31:32,978  INFO [main] HRM:342 - Logout page verified & welcome back to login page successfully
+ 2019-12-09 17:31:33,721  INFO [main] HRM:57 - Closed the browser
+ 2019-12-11 16:16:01,439  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-11 16:16:02,484  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-11 16:16:12,993  INFO [main] HRM:32 - Logged in successfully
+ 2019-12-11 16:16:15,155  INFO [main] HRM:39 - Leave Details Page opened
+ 2019-12-11 16:16:19,392  INFO [main] HRM:53 - Entered From date, To date and clicked on submit button 
+ 2019-12-11 16:16:27,696  INFO [main] HRM:73 - Displayed Holiday List successfully
+ 2019-12-11 16:16:29,778  INFO [main] HRM:77 - Navigate to Home page
+ 2019-12-11 16:16:31,841  INFO [main] HRM:81 - Staff Summary Page opened
+ 2019-12-11 16:16:51,152  INFO [main] HRM:94 - Logged out the application successfully
+ 2019-12-11 16:16:51,838  INFO [main] HRM:57 - Closed the browser
+ 2019-12-11 16:16:54,160  INFO [main] HRM:39 - Chrome Browser opened
+ 2019-12-11 16:16:55,119  INFO [main] HRM:49 - Login page Displayed successfully
+ 2019-12-11 16:17:01,526  INFO [main] HRM:24 - Logged in successfully
+ 2020-01-16 14:44:52,175  INFO [main] HRM:39 - Chrome Browser opened
+ 2020-01-16 14:44:54,637  INFO [main] HRM:49 - Login page Displayed successfully
+ 2020-01-16 14:44:56,514  INFO [main] HRM:38 - Logged-In successfully
+ 2020-01-16 14:44:59,525  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2020-01-16 14:45:17,223  INFO [main] HRM:84 - My Attendance Details displayed successfully
+ 2020-01-16 14:45:52,388  INFO [main] HRM:159 - Leave Applied Successfully
+ 2020-01-16 14:46:01,910  INFO [main] HRM:180 - Generate Request message successfully
+ 2020-01-16 14:46:04,002  INFO [main] HRM:187 - Opened Bank Account Details Successfully
+ 2020-01-16 14:46:20,956  INFO [main] HRM:230 - Training Sumamry added successfully
+ 2020-01-16 14:46:32,506  INFO [main] HRM:259 - Password Changed Successfully
+ 2020-01-16 14:46:43,952  INFO [main] HRM:290 - Leave Details opened successfully
+ 2020-01-16 14:46:52,200  INFO [main] HRM:310 - Holiday List Displayed successfully
+ 2020-01-16 14:47:14,521  INFO [main] HRM:327 - Staff Summary Report Displayed Successfully
+ 2020-01-16 14:47:16,586  INFO [main] HRM:331 - Navigate to Home page
+ 2020-01-16 14:47:19,700  INFO [main] HRM:336 - Logged out the application successfully
+ 2020-01-16 14:47:19,709  INFO [main] HRM:341 - Logout page verified & welcome back to login page successfully
+ 2020-01-16 14:47:20,404  INFO [main] HRM:57 - Closed the browser
+ 2020-01-16 15:47:02,671  INFO [main] HRM:39 - Chrome Browser opened
+ 2020-01-16 15:47:04,347  INFO [main] HRM:49 - Login page Displayed successfully
+ 2020-01-16 15:47:05,767  INFO [main] HRM:38 - Logged-In successfully
+ 2020-01-16 15:47:08,780  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2020-01-16 15:47:26,355  INFO [main] HRM:84 - My Attendance Details displayed successfully
+ 2020-01-16 15:48:01,370  INFO [main] HRM:159 - Leave Applied Successfully
+ 2020-01-16 15:48:10,877  INFO [main] HRM:180 - Generate Request message successfully
+ 2020-01-16 15:48:12,971  INFO [main] HRM:187 - Opened Bank Account Details Successfully
+ 2020-01-16 15:48:29,865  INFO [main] HRM:230 - Training Sumamry added successfully
+ 2020-01-16 15:48:41,362  INFO [main] HRM:259 - Password Changed Successfully
+ 2020-01-16 15:48:52,826  INFO [main] HRM:290 - Leave Details opened successfully
+ 2020-01-16 15:49:01,085  INFO [main] HRM:310 - Holiday List Displayed successfully
+ 2020-01-16 15:49:23,404  INFO [main] HRM:327 - Staff Summary Report Displayed Successfully
+ 2020-01-16 15:49:25,495  INFO [main] HRM:331 - Navigate to Home page
+ 2020-01-16 15:49:28,640  INFO [main] HRM:336 - Logged out the application successfully
+ 2020-01-16 15:49:28,650  INFO [main] HRM:341 - Logout page verified & welcome back to login page successfully
+ 2020-01-16 15:49:29,351  INFO [main] HRM:57 - Closed the browser
+ 2020-01-16 17:46:49,633  INFO [main] HRM:39 - Chrome Browser opened
+ 2020-01-16 17:46:52,180  INFO [main] HRM:49 - Login page Displayed successfully
+ 2020-01-16 17:46:53,651  INFO [main] HRM:38 - Logged-In successfully
+ 2020-01-16 17:46:56,673  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2020-01-16 17:47:14,332  INFO [main] HRM:84 - My Attendance Details displayed successfully
+ 2020-01-16 17:47:49,443  INFO [main] HRM:159 - Leave Applied Successfully
+ 2020-01-16 17:47:58,945  INFO [main] HRM:180 - Generate Request message successfully
+ 2020-01-16 17:48:01,027  INFO [main] HRM:187 - Opened Bank Account Details Successfully
+ 2020-01-16 17:48:17,873  INFO [main] HRM:230 - Training Sumamry added successfully
+ 2020-01-16 17:48:29,394  INFO [main] HRM:259 - Password Changed Successfully
+ 2020-01-16 17:48:40,909  INFO [main] HRM:290 - Leave Details opened successfully
+ 2020-01-16 17:48:49,160  INFO [main] HRM:310 - Holiday List Displayed successfully
+ 2020-01-16 17:49:11,517  INFO [main] HRM:327 - Staff Summary Report Displayed Successfully
+ 2020-01-16 17:49:13,586  INFO [main] HRM:331 - Navigate to Home page
+ 2020-01-16 17:49:16,706  INFO [main] HRM:336 - Logged out the application successfully
+ 2020-01-16 17:49:16,716  INFO [main] HRM:341 - Logout page verified & welcome back to login page successfully
+ 2020-01-16 17:49:17,389  INFO [main] HRM:57 - Closed the browser
+ 2020-01-17 09:48:42,666  INFO [main] HRM:39 - Chrome Browser opened
+ 2020-01-17 09:48:46,273  INFO [main] HRM:49 - Login page Displayed successfully
+ 2020-01-17 09:48:47,730  INFO [main] HRM:38 - Logged-In successfully
+ 2020-01-17 09:48:50,745  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2020-01-17 09:50:06,335  INFO [main] HRM:159 - Leave Applied Successfully
+ 2020-01-17 09:50:15,853  INFO [main] HRM:180 - Generate Request message successfully
+ 2020-01-17 09:50:17,933  INFO [main] HRM:187 - Opened Bank Account Details Successfully
+ 2020-01-17 09:50:34,839  INFO [main] HRM:230 - Training Sumamry added successfully
+ 2020-01-17 09:50:46,364  INFO [main] HRM:259 - Password Changed Successfully
+ 2020-01-17 09:50:57,828  INFO [main] HRM:290 - Leave Details opened successfully
+ 2020-01-17 09:51:06,089  INFO [main] HRM:310 - Holiday List Displayed successfully
+ 2020-01-17 09:51:28,437  INFO [main] HRM:327 - Staff Summary Report Displayed Successfully
+ 2020-01-17 09:51:30,581  INFO [main] HRM:331 - Navigate to Home page
+ 2020-01-17 09:51:33,705  INFO [main] HRM:336 - Logged out the application successfully
+ 2020-01-17 09:51:33,715  INFO [main] HRM:341 - Logout page verified & welcome back to login page successfully
+ 2020-01-17 09:51:34,350  INFO [main] HRM:57 - Closed the browser
+ 2020-01-17 11:45:22,500  INFO [main] HRM:39 - Chrome Browser opened
+ 2020-01-17 11:45:24,076  INFO [main] HRM:49 - Login page Displayed successfully
+ 2020-01-17 11:45:25,512  INFO [main] HRM:38 - Logged-In successfully
+ 2020-01-17 11:45:28,520  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2020-01-17 11:45:46,177  INFO [main] HRM:84 - My Attendance Details displayed successfully
+ 2020-01-17 11:46:21,221  INFO [main] HRM:159 - Leave Applied Successfully
+ 2020-01-17 11:46:30,725  INFO [main] HRM:180 - Generate Request message successfully
+ 2020-01-17 11:46:32,801  INFO [main] HRM:187 - Opened Bank Account Details Successfully
+ 2020-01-17 11:46:53,552  INFO [main] HRM:57 - Closed the browser
+ 2020-01-17 11:50:06,546  INFO [main] HRM:39 - Chrome Browser opened
+ 2020-01-17 11:50:07,841  INFO [main] HRM:49 - Login page Displayed successfully
+ 2020-01-17 11:50:09,254  INFO [main] HRM:38 - Logged-In successfully
+ 2020-01-17 11:50:12,267  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2020-01-17 11:50:57,074  INFO [main] HRM:57 - Closed the browser
+ 2020-01-23 10:41:34,213  INFO [main] HRM:39 - Chrome Browser opened
+ 2020-01-23 10:41:35,916  INFO [main] HRM:49 - Login page Displayed successfully
+ 2020-01-23 10:41:37,548  INFO [main] HRM:38 - Logged-In successfully
+ 2020-01-23 10:41:40,561  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2020-01-23 10:41:58,441  INFO [main] HRM:83 - My Attendance Details displayed successfully
+ 2020-01-23 10:42:33,352  INFO [main] HRM:158 - Leave Applied Successfully
+ 2020-01-23 10:42:42,874  INFO [main] HRM:179 - Generate Request message successfully
+ 2020-01-23 10:42:44,952  INFO [main] HRM:186 - Opened Bank Account Details Successfully
+ 2020-01-23 10:43:01,777  INFO [main] HRM:229 - Training Sumamry added successfully
+ 2020-01-23 10:43:13,298  INFO [main] HRM:258 - Password Changed Successfully
+ 2020-01-23 10:43:24,734  INFO [main] HRM:289 - Leave Details opened successfully
+ 2020-01-23 10:43:32,969  INFO [main] HRM:309 - Holiday List Displayed successfully
+ 2020-01-23 10:43:55,295  INFO [main] HRM:326 - Staff Summary Report Displayed Successfully
+ 2020-01-23 10:43:57,396  INFO [main] HRM:330 - Navigate to Home page
+ 2020-01-23 10:44:00,513  INFO [main] HRM:335 - Logged out the application successfully
+ 2020-01-23 10:44:00,523  INFO [main] HRM:340 - Logout page verified & welcome back to login page successfully
+ 2020-01-23 10:44:01,210  INFO [main] HRM:57 - Closed the browser
+ 2020-02-03 11:20:26,048  INFO [main] HRM:39 - Chrome Browser opened
+ 2020-02-03 11:20:27,180  INFO [main] HRM:48 - Login page Displayed successfully
+ 2020-02-03 11:20:28,606  INFO [main] HRM:38 - Logged-In successfully
+ 2020-02-03 11:20:31,620  INFO [main] HRM:44 - Dashboard Title verified successfully
+ 2020-02-03 11:20:49,254  INFO [main] HRM:83 - My Attendance Details displayed successfully
+ 2020-02-03 11:21:24,142  INFO [main] HRM:158 - Leave Applied Successfully
+ 2020-02-03 11:21:33,603  INFO [main] HRM:179 - Generate Request message successfully
+ 2020-02-03 11:21:35,683  INFO [main] HRM:186 - Opened Bank Account Details Successfully
+ 2020-02-03 11:21:52,550  INFO [main] HRM:229 - Training Sumamry added successfully
+ 2020-02-03 11:22:04,020  INFO [main] HRM:258 - Password Changed Successfully
+ 2020-02-03 11:22:15,508  INFO [main] HRM:289 - Leave Details opened successfully
+ 2020-02-03 11:22:23,758  INFO [main] HRM:309 - Holiday List Displayed successfully
+ 2020-02-03 11:22:46,116  INFO [main] HRM:326 - Staff Summary Report Displayed Successfully
+ 2020-02-03 11:22:48,219  INFO [main] HRM:330 - Navigate to Home page
+ 2020-02-03 11:22:51,336  INFO [main] HRM:335 - Logged out the application successfully
+ 2020-02-03 11:22:51,346  INFO [main] HRM:340 - Logout page verified & welcome back to login page successfully
+ 2020-02-03 11:22:52,041  INFO [main] HRM:56 - Closed the browser
+ 
